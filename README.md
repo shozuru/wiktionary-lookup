@@ -2,7 +2,7 @@
 A multilingual vocabulary explorer that displays the most frequent words, their parts of speech and meanings as found in wiktionary in French, Brazilian Portuguese, Korean, Italian, and Danish.
 
 # Features
-Displays the 200 most frequently used words in French, Brazilian Portuese, Korean, Italian and Danish (frequencies based on www.opensubtitles.org provided by Wiktionary Frequency Lists)
+Displays the 200 most frequently used words in French, Brazilian Portuese, Korean, Italian and Danish (frequencies based on www.opensubtitles.org provided by Wiktionary Frequency Lists).
 Clicking a word fetches pronunciation, parts of speech and meanings from the word's witkionary entry in that language.
 
 # Tech Stack
