@@ -11,20 +11,26 @@ Express
 React
 
 # Cloning
+```
 git clone https://github.com/shozuru/wiktionary-lookup.git
 cd wiktionary-lookup
+```
 
 # Installing backend
+```
 cd backend
 npm install
 npm run build
 npm start
+```
 
 # Installing frontend
+```
 cd frontend
 npm install
 npm run build
 npm run preview
+```
 
 # License
 This project is licensed under the MIT License
