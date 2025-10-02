@@ -1,5 +1,5 @@
 # wiktionary-lookup
-A multilingual vocabulary explorer that displays the most frequent words in French, Brazilian Portuguese, Korean, Italian, and Danish. Clicking a word fetches its pronunciation, part of speech, and definitions directly from Wiktionary.
+A multilingual vocabulary explorer that displays the most frequent words, their parts of speech and meanings as found in wiktionary in French, Brazilian Portuguese, Korean, Italian, and Danish.
 
 # Features
 Displays the 200 most frequently used words in French, Brazilian Portuese, Korean, Italian and Danish (frequencies based on www.opensubtitles.org provided by Wiktionary Frequency Lists)
