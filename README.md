@@ -1,4 +1,4 @@
-# wiktionary-lookup
+# Wiktionary Lookup Application
 A multilingual vocabulary explorer that displays the most frequent words, their parts of speech and meanings as found in wiktionary in French, Brazilian Portuguese, Korean, Italian, and Danish.
 
 # Features
