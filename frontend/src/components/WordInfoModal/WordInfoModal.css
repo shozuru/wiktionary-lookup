@@ -1,0 +1,50 @@
+.dialog-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    position: fixed;
+    inset: 0
+}
+
+.dialog-content {
+    background-color: white;
+    padding: 1rem;
+    border-radius: 8px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 300px;
+    max-height: 90vh;
+    overflow-y: auto;
+}
+
+.dialog-close {
+    margin-top: 20px;
+}
+
+.dialog-close:hover {
+    background-color: azure;
+}
+
+.info-header {
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+.frequency {
+    margin-bottom: 0;
+}
+
+.ipa-representation {
+    margin-top: 0;
+}
+
+.ipa-text {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    margin-right: 0.25rem;
+}
+
+.info-loading span {
+    display: block;
+    margin: 0;
+    line-height: 1.2;
+}
