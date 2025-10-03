@@ -1,14 +1,21 @@
-# wiktionary-lookup
-A multilingual vocabulary explorer that displays the most frequent words in French, Brazilian Portuguese, Korean, Italian, and Danish. Clicking a word fetches its pronunciation, part of speech, and definitions directly from Wiktionary.
+# Wiktionary Lookup Application
+A multilingual vocabulary explorer that displays the most frequent words, their parts of speech and meanings as found in wiktionary in French, Brazilian Portuguese, Korean, Italian, and Danish.
 
 # Features
-Displays the 200 most frequently used words in French, Brazilian Portuese, Korean, Italian and Danish (frequencies based on www.opensubtitles.org provided by Wiktionary Frequency Lists)
+Displays the 200 most frequently used words in French, Brazilian Portuese, Korean, Italian and Danish (frequencies based on www.opensubtitles.org provided by Wiktionary Frequency Lists).
 Clicking a word fetches pronunciation, parts of speech and meanings from the word's witkionary entry in that language.
 
 # Tech Stack
-Node.js
-Express
-React
+FrontEnd:
+* React
+* Axios
+
+Backend:
+* Express
+* Node.js
+* Cheerio
+* Axios
+* CORS
 
 # Cloning
 ```
