@@ -6,9 +6,16 @@ Displays the 200 most frequently used words in French, Brazilian Portuese, Korea
 Clicking a word fetches pronunciation, parts of speech and meanings from the word's witkionary entry in that language.
 
 # Tech Stack
-Node.js
-Express
-React
+FrontEnd:
+* React
+* Axios
+
+Backend:
+* Express
+* Node.js
+* Cheerio
+* Axios
+* CORS
 
 # Cloning
 ```
