@@ -1,0 +1,802 @@
+[
+    {
+        "index": 0,
+        "word": "non"
+    },
+    {
+        "index": 1,
+        "word": "di"
+    },
+    {
+        "index": 2,
+        "word": "che"
+    },
+    {
+        "index": 3,
+        "word": "è"
+    },
+    {
+        "index": 4,
+        "word": "e"
+    },
+    {
+        "index": 5,
+        "word": "la"
+    },
+    {
+        "index": 6,
+        "word": "il"
+    },
+    {
+        "index": 7,
+        "word": "un"
+    },
+    {
+        "index": 8,
+        "word": "a"
+    },
+    {
+        "index": 9,
+        "word": "per"
+    },
+    {
+        "index": 10,
+        "word": "in"
+    },
+    {
+        "index": 11,
+        "word": "una"
+    },
+    {
+        "index": 12,
+        "word": "mi"
+    },
+    {
+        "index": 13,
+        "word": "sono"
+    },
+    {
+        "index": 14,
+        "word": "ho"
+    },
+    {
+        "index": 15,
+        "word": "ma"
+    },
+    {
+        "index": 16,
+        "word": "l'"
+    },
+    {
+        "index": 17,
+        "word": "lo"
+    },
+    {
+        "index": 18,
+        "word": "ha"
+    },
+    {
+        "index": 19,
+        "word": "le"
+    },
+    {
+        "index": 20,
+        "word": "si"
+    },
+    {
+        "index": 21,
+        "word": "ti"
+    },
+    {
+        "index": 22,
+        "word": "i"
+    },
+    {
+        "index": 23,
+        "word": "con"
+    },
+    {
+        "index": 24,
+        "word": "cosa"
+    },
+    {
+        "index": 25,
+        "word": "se"
+    },
+    {
+        "index": 26,
+        "word": "io"
+    },
+    {
+        "index": 27,
+        "word": "come"
+    },
+    {
+        "index": 28,
+        "word": "da"
+    },
+    {
+        "index": 29,
+        "word": "ci"
+    },
+    {
+        "index": 30,
+        "word": "no"
+    },
+    {
+        "index": 31,
+        "word": "questo"
+    },
+    {
+        "index": 32,
+        "word": "qui"
+    },
+    {
+        "index": 33,
+        "word": "e'"
+    },
+    {
+        "index": 34,
+        "word": "hai"
+    },
+    {
+        "index": 35,
+        "word": "sei"
+    },
+    {
+        "index": 36,
+        "word": "del"
+    },
+    {
+        "index": 37,
+        "word": "bene"
+    },
+    {
+        "index": 38,
+        "word": "tu"
+    },
+    {
+        "index": 39,
+        "word": "sì"
+    },
+    {
+        "index": 40,
+        "word": "me"
+    },
+    {
+        "index": 41,
+        "word": "più"
+    },
+    {
+        "index": 42,
+        "word": "al"
+    },
+    {
+        "index": 43,
+        "word": "mio"
+    },
+    {
+        "index": 44,
+        "word": "c'"
+    },
+    {
+        "index": 45,
+        "word": "perché"
+    },
+    {
+        "index": 46,
+        "word": "lei"
+    },
+    {
+        "index": 47,
+        "word": "solo"
+    },
+    {
+        "index": 48,
+        "word": "te"
+    },
+    {
+        "index": 49,
+        "word": "era"
+    },
+    {
+        "index": 50,
+        "word": "gli"
+    },
+    {
+        "index": 51,
+        "word": "tutto"
+    },
+    {
+        "index": 52,
+        "word": "della"
+    },
+    {
+        "index": 53,
+        "word": "così"
+    },
+    {
+        "index": 54,
+        "word": "mia"
+    },
+    {
+        "index": 55,
+        "word": "ne"
+    },
+    {
+        "index": 56,
+        "word": "questa"
+    },
+    {
+        "index": 57,
+        "word": "fare"
+    },
+    {
+        "index": 58,
+        "word": "quando"
+    },
+    {
+        "index": 59,
+        "word": "ora"
+    },
+    {
+        "index": 60,
+        "word": "fatto"
+    },
+    {
+        "index": 61,
+        "word": "essere"
+    },
+    {
+        "index": 62,
+        "word": "so"
+    },
+    {
+        "index": 63,
+        "word": "mai"
+    },
+    {
+        "index": 64,
+        "word": "chi"
+    },
+    {
+        "index": 65,
+        "word": "o"
+    },
+    {
+        "index": 66,
+        "word": "alla"
+    },
+    {
+        "index": 67,
+        "word": "tutti"
+    },
+    {
+        "index": 68,
+        "word": "molto"
+    },
+    {
+        "index": 69,
+        "word": "dei"
+    },
+    {
+        "index": 70,
+        "word": "anche"
+    },
+    {
+        "index": 71,
+        "word": "detto"
+    },
+    {
+        "index": 72,
+        "word": "quello"
+    },
+    {
+        "index": 73,
+        "word": "va"
+    },
+    {
+        "index": 74,
+        "word": "niente"
+    },
+    {
+        "index": 75,
+        "word": "grazie"
+    },
+    {
+        "index": 76,
+        "word": "lui"
+    },
+    {
+        "index": 77,
+        "word": "voglio"
+    },
+    {
+        "index": 78,
+        "word": "abbiamo"
+    },
+    {
+        "index": 79,
+        "word": "stato"
+    },
+    {
+        "index": 80,
+        "word": "nel"
+    },
+    {
+        "index": 81,
+        "word": "suo"
+    },
+    {
+        "index": 82,
+        "word": "dove"
+    },
+    {
+        "index": 83,
+        "word": "posso"
+    },
+    {
+        "index": 84,
+        "word": "oh"
+    },
+    {
+        "index": 85,
+        "word": "prima"
+    },
+    {
+        "index": 86,
+        "word": "allora"
+    },
+    {
+        "index": 87,
+        "word": "siamo"
+    },
+    {
+        "index": 88,
+        "word": "d'"
+    },
+    {
+        "index": 89,
+        "word": "uno"
+    },
+    {
+        "index": 90,
+        "word": "un'"
+    },
+    {
+        "index": 91,
+        "word": "sua"
+    },
+    {
+        "index": 92,
+        "word": "tuo"
+    },
+    {
+        "index": 93,
+        "word": "hanno"
+    },
+    {
+        "index": 94,
+        "word": "noi"
+    },
+    {
+        "index": 95,
+        "word": "sta"
+    },
+    {
+        "index": 96,
+        "word": "fa"
+    },
+    {
+        "index": 97,
+        "word": "due"
+    },
+    {
+        "index": 98,
+        "word": "vuoi"
+    },
+    {
+        "index": 99,
+        "word": "ancora"
+    },
+    {
+        "index": 100,
+        "word": "qualcosa"
+    },
+    {
+        "index": 101,
+        "word": "vero"
+    },
+    {
+        "index": 102,
+        "word": "casa"
+    },
+    {
+        "index": 103,
+        "word": "sia"
+    },
+    {
+        "index": 104,
+        "word": "su"
+    },
+    {
+        "index": 105,
+        "word": "tua"
+    },
+    {
+        "index": 106,
+        "word": "sempre"
+    },
+    {
+        "index": 107,
+        "word": "forse"
+    },
+    {
+        "index": 108,
+        "word": "dire"
+    },
+    {
+        "index": 109,
+        "word": "vi"
+    },
+    {
+        "index": 110,
+        "word": "loro"
+    },
+    {
+        "index": 111,
+        "word": "i'"
+    },
+    {
+        "index": 112,
+        "word": "altro"
+    },
+    {
+        "index": 113,
+        "word": "sai"
+    },
+    {
+        "index": 114,
+        "word": "stai"
+    },
+    {
+        "index": 115,
+        "word": "devo"
+    },
+    {
+        "index": 116,
+        "word": "quella"
+    },
+    {
+        "index": 117,
+        "word": "vita"
+    },
+    {
+        "index": 118,
+        "word": "quel"
+    },
+    {
+        "index": 119,
+        "word": "delle"
+    },
+    {
+        "index": 120,
+        "word": "tempo"
+    },
+    {
+        "index": 121,
+        "word": "andare"
+    },
+    {
+        "index": 122,
+        "word": "certo"
+    },
+    {
+        "index": 123,
+        "word": "poi"
+    },
+    {
+        "index": 124,
+        "word": "nella"
+    },
+    {
+        "index": 125,
+        "word": "uomo"
+    },
+    {
+        "index": 126,
+        "word": "signore"
+    },
+    {
+        "index": 127,
+        "word": "ad"
+    },
+    {
+        "index": 128,
+        "word": "po'"
+    },
+    {
+        "index": 129,
+        "word": "può"
+    },
+    {
+        "index": 130,
+        "word": "credo"
+    },
+    {
+        "index": 131,
+        "word": "voi"
+    },
+    {
+        "index": 132,
+        "word": "già"
+    },
+    {
+        "index": 133,
+        "word": "adesso"
+    },
+    {
+        "index": 134,
+        "word": "andiamo"
+    },
+    {
+        "index": 135,
+        "word": "anni"
+    },
+    {
+        "index": 136,
+        "word": "all'"
+    },
+    {
+        "index": 137,
+        "word": "visto"
+    },
+    {
+        "index": 138,
+        "word": "fuori"
+    },
+    {
+        "index": 139,
+        "word": "proprio"
+    },
+    {
+        "index": 140,
+        "word": "parte"
+    },
+    {
+        "index": 141,
+        "word": "davvero"
+    },
+    {
+        "index": 142,
+        "word": "vuole"
+    },
+    {
+        "index": 143,
+        "word": "li"
+    },
+    {
+        "index": 144,
+        "word": "dell'"
+    },
+    {
+        "index": 145,
+        "word": "sto"
+    },
+    {
+        "index": 146,
+        "word": "quanto"
+    },
+    {
+        "index": 147,
+        "word": "volta"
+    },
+    {
+        "index": 148,
+        "word": "via"
+    },
+    {
+        "index": 149,
+        "word": "sul"
+    },
+    {
+        "index": 150,
+        "word": "é"
+    },
+    {
+        "index": 151,
+        "word": "dio"
+    },
+    {
+        "index": 152,
+        "word": "sarà"
+    },
+    {
+        "index": 153,
+        "word": "dopo"
+    },
+    {
+        "index": 154,
+        "word": "senza"
+    },
+    {
+        "index": 155,
+        "word": "cose"
+    },
+    {
+        "index": 156,
+        "word": "nessuno"
+    },
+    {
+        "index": 157,
+        "word": "fai"
+    },
+    {
+        "index": 158,
+        "word": "giorno"
+    },
+    {
+        "index": 159,
+        "word": "ed"
+    },
+    {
+        "index": 160,
+        "word": "meglio"
+    },
+    {
+        "index": 161,
+        "word": "padre"
+    },
+    {
+        "index": 162,
+        "word": "puoi"
+    },
+    {
+        "index": 163,
+        "word": "ciao"
+    },
+    {
+        "index": 164,
+        "word": "cos'"
+    },
+    {
+        "index": 165,
+        "word": "devi"
+    },
+    {
+        "index": 166,
+        "word": "ecco"
+    },
+    {
+        "index": 167,
+        "word": "qualcuno"
+    },
+    {
+        "index": 168,
+        "word": "dal"
+    },
+    {
+        "index": 169,
+        "word": "lavoro"
+    },
+    {
+        "index": 170,
+        "word": "sa"
+    },
+    {
+        "index": 171,
+        "word": "ai"
+    },
+    {
+        "index": 172,
+        "word": "vedere"
+    },
+    {
+        "index": 173,
+        "word": "ogni"
+    },
+    {
+        "index": 174,
+        "word": "ii"
+    },
+    {
+        "index": 175,
+        "word": "troppo"
+    },
+    {
+        "index": 176,
+        "word": "posto"
+    },
+    {
+        "index": 177,
+        "word": "cui"
+    },
+    {
+        "index": 178,
+        "word": "tanto"
+    },
+    {
+        "index": 179,
+        "word": "male"
+    },
+    {
+        "index": 180,
+        "word": "dai"
+    },
+    {
+        "index": 181,
+        "word": "ce"
+    },
+    {
+        "index": 182,
+        "word": "bisogno"
+    },
+    {
+        "index": 183,
+        "word": "signor"
+    },
+    {
+        "index": 184,
+        "word": "beh"
+    },
+    {
+        "index": 185,
+        "word": "perchè"
+    },
+    {
+        "index": 186,
+        "word": "vieni"
+    },
+    {
+        "index": 187,
+        "word": "alle"
+    },
+    {
+        "index": 188,
+        "word": "dalla"
+    },
+    {
+        "index": 189,
+        "word": "stata"
+    },
+    {
+        "index": 190,
+        "word": "tra"
+    },
+    {
+        "index": 191,
+        "word": "vai"
+    },
+    {
+        "index": 192,
+        "word": "ehi"
+    },
+    {
+        "index": 193,
+        "word": "miei"
+    },
+    {
+        "index": 194,
+        "word": "amico"
+    },
+    {
+        "index": 195,
+        "word": "dice"
+    },
+    {
+        "index": 196,
+        "word": "sarebbe"
+    },
+    {
+        "index": 197,
+        "word": "avete"
+    },
+    {
+        "index": 198,
+        "word": "altra"
+    },
+    {
+        "index": 199,
+        "word": "deve"
+    }
+]

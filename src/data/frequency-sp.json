@@ -1,0 +1,802 @@
+[
+    {
+        "index": 0,
+        "word": "que"
+    },
+    {
+        "index": 1,
+        "word": "de"
+    },
+    {
+        "index": 2,
+        "word": "no"
+    },
+    {
+        "index": 3,
+        "word": "a"
+    },
+    {
+        "index": 4,
+        "word": "la"
+    },
+    {
+        "index": 5,
+        "word": "el"
+    },
+    {
+        "index": 6,
+        "word": "es"
+    },
+    {
+        "index": 7,
+        "word": "y"
+    },
+    {
+        "index": 8,
+        "word": "en"
+    },
+    {
+        "index": 9,
+        "word": "lo"
+    },
+    {
+        "index": 10,
+        "word": "un"
+    },
+    {
+        "index": 11,
+        "word": "por"
+    },
+    {
+        "index": 12,
+        "word": "qué"
+    },
+    {
+        "index": 13,
+        "word": "me"
+    },
+    {
+        "index": 14,
+        "word": "una"
+    },
+    {
+        "index": 15,
+        "word": "te"
+    },
+    {
+        "index": 16,
+        "word": "los"
+    },
+    {
+        "index": 17,
+        "word": "se"
+    },
+    {
+        "index": 18,
+        "word": "con"
+    },
+    {
+        "index": 19,
+        "word": "para"
+    },
+    {
+        "index": 20,
+        "word": "mi"
+    },
+    {
+        "index": 21,
+        "word": "está"
+    },
+    {
+        "index": 22,
+        "word": "si"
+    },
+    {
+        "index": 23,
+        "word": "bien"
+    },
+    {
+        "index": 24,
+        "word": "pero"
+    },
+    {
+        "index": 25,
+        "word": "yo"
+    },
+    {
+        "index": 26,
+        "word": "eso"
+    },
+    {
+        "index": 27,
+        "word": "las"
+    },
+    {
+        "index": 28,
+        "word": "sí"
+    },
+    {
+        "index": 29,
+        "word": "su"
+    },
+    {
+        "index": 30,
+        "word": "tu"
+    },
+    {
+        "index": 31,
+        "word": "aquí"
+    },
+    {
+        "index": 32,
+        "word": "del"
+    },
+    {
+        "index": 33,
+        "word": "al"
+    },
+    {
+        "index": 34,
+        "word": "como"
+    },
+    {
+        "index": 35,
+        "word": "le"
+    },
+    {
+        "index": 36,
+        "word": "más"
+    },
+    {
+        "index": 37,
+        "word": "esto"
+    },
+    {
+        "index": 38,
+        "word": "ya"
+    },
+    {
+        "index": 39,
+        "word": "todo"
+    },
+    {
+        "index": 40,
+        "word": "esta"
+    },
+    {
+        "index": 41,
+        "word": "vamos"
+    },
+    {
+        "index": 42,
+        "word": "muy"
+    },
+    {
+        "index": 43,
+        "word": "hay"
+    },
+    {
+        "index": 44,
+        "word": "ahora"
+    },
+    {
+        "index": 45,
+        "word": "algo"
+    },
+    {
+        "index": 46,
+        "word": "estoy"
+    },
+    {
+        "index": 47,
+        "word": "tengo"
+    },
+    {
+        "index": 48,
+        "word": "nos"
+    },
+    {
+        "index": 49,
+        "word": "tú"
+    },
+    {
+        "index": 50,
+        "word": "nada"
+    },
+    {
+        "index": 51,
+        "word": "cuando"
+    },
+    {
+        "index": 52,
+        "word": "ha"
+    },
+    {
+        "index": 53,
+        "word": "este"
+    },
+    {
+        "index": 54,
+        "word": "sé"
+    },
+    {
+        "index": 55,
+        "word": "estás"
+    },
+    {
+        "index": 56,
+        "word": "así"
+    },
+    {
+        "index": 57,
+        "word": "puedo"
+    },
+    {
+        "index": 58,
+        "word": "cómo"
+    },
+    {
+        "index": 59,
+        "word": "quiero"
+    },
+    {
+        "index": 60,
+        "word": "sólo"
+    },
+    {
+        "index": 61,
+        "word": "soy"
+    },
+    {
+        "index": 62,
+        "word": "tiene"
+    },
+    {
+        "index": 63,
+        "word": "gracias"
+    },
+    {
+        "index": 64,
+        "word": "o"
+    },
+    {
+        "index": 65,
+        "word": "él"
+    },
+    {
+        "index": 66,
+        "word": "bueno"
+    },
+    {
+        "index": 67,
+        "word": "fue"
+    },
+    {
+        "index": 68,
+        "word": "ser"
+    },
+    {
+        "index": 69,
+        "word": "hacer"
+    },
+    {
+        "index": 70,
+        "word": "son"
+    },
+    {
+        "index": 71,
+        "word": "todos"
+    },
+    {
+        "index": 72,
+        "word": "era"
+    },
+    {
+        "index": 73,
+        "word": "eres"
+    },
+    {
+        "index": 74,
+        "word": "vez"
+    },
+    {
+        "index": 75,
+        "word": "tienes"
+    },
+    {
+        "index": 76,
+        "word": "creo"
+    },
+    {
+        "index": 77,
+        "word": "ella"
+    },
+    {
+        "index": 78,
+        "word": "he"
+    },
+    {
+        "index": 79,
+        "word": "ese"
+    },
+    {
+        "index": 80,
+        "word": "voy"
+    },
+    {
+        "index": 81,
+        "word": "puede"
+    },
+    {
+        "index": 82,
+        "word": "sabes"
+    },
+    {
+        "index": 83,
+        "word": "hola"
+    },
+    {
+        "index": 84,
+        "word": "sus"
+    },
+    {
+        "index": 85,
+        "word": "porque"
+    },
+    {
+        "index": 86,
+        "word": "dios"
+    },
+    {
+        "index": 87,
+        "word": "quién"
+    },
+    {
+        "index": 88,
+        "word": "nunca"
+    },
+    {
+        "index": 89,
+        "word": "dónde"
+    },
+    {
+        "index": 90,
+        "word": "quieres"
+    },
+    {
+        "index": 91,
+        "word": "casa"
+    },
+    {
+        "index": 92,
+        "word": "favor"
+    },
+    {
+        "index": 93,
+        "word": "esa"
+    },
+    {
+        "index": 94,
+        "word": "dos"
+    },
+    {
+        "index": 95,
+        "word": "tan"
+    },
+    {
+        "index": 96,
+        "word": "señor"
+    },
+    {
+        "index": 97,
+        "word": "tiempo"
+    },
+    {
+        "index": 98,
+        "word": "verdad"
+    },
+    {
+        "index": 99,
+        "word": "estaba"
+    },
+    {
+        "index": 100,
+        "word": "mejor"
+    },
+    {
+        "index": 101,
+        "word": "están"
+    },
+    {
+        "index": 102,
+        "word": "va"
+    },
+    {
+        "index": 103,
+        "word": "hombre"
+    },
+    {
+        "index": 104,
+        "word": "usted"
+    },
+    {
+        "index": 105,
+        "word": "mucho"
+    },
+    {
+        "index": 106,
+        "word": "hace"
+    },
+    {
+        "index": 107,
+        "word": "entonces"
+    },
+    {
+        "index": 108,
+        "word": "siento"
+    },
+    {
+        "index": 109,
+        "word": "tenemos"
+    },
+    {
+        "index": 110,
+        "word": "puedes"
+    },
+    {
+        "index": 111,
+        "word": "ahí"
+    },
+    {
+        "index": 112,
+        "word": "ti"
+    },
+    {
+        "index": 113,
+        "word": "vida"
+    },
+    {
+        "index": 114,
+        "word": "ver"
+    },
+    {
+        "index": 115,
+        "word": "alguien"
+    },
+    {
+        "index": 116,
+        "word": "sr"
+    },
+    {
+        "index": 117,
+        "word": "hasta"
+    },
+    {
+        "index": 118,
+        "word": "sin"
+    },
+    {
+        "index": 119,
+        "word": "mí"
+    },
+    {
+        "index": 120,
+        "word": "solo"
+    },
+    {
+        "index": 121,
+        "word": "años"
+    },
+    {
+        "index": 122,
+        "word": "sobre"
+    },
+    {
+        "index": 123,
+        "word": "decir"
+    },
+    {
+        "index": 124,
+        "word": "uno"
+    },
+    {
+        "index": 125,
+        "word": "siempre"
+    },
+    {
+        "index": 126,
+        "word": "oh"
+    },
+    {
+        "index": 127,
+        "word": "ir"
+    },
+    {
+        "index": 128,
+        "word": "cosas"
+    },
+    {
+        "index": 129,
+        "word": "también"
+    },
+    {
+        "index": 130,
+        "word": "antes"
+    },
+    {
+        "index": 131,
+        "word": "has"
+    },
+    {
+        "index": 132,
+        "word": "ni"
+    },
+    {
+        "index": 133,
+        "word": "mis"
+    },
+    {
+        "index": 134,
+        "word": "día"
+    },
+    {
+        "index": 135,
+        "word": "estar"
+    },
+    {
+        "index": 136,
+        "word": "estamos"
+    },
+    {
+        "index": 137,
+        "word": "noche"
+    },
+    {
+        "index": 138,
+        "word": "nadie"
+    },
+    {
+        "index": 139,
+        "word": "otra"
+    },
+    {
+        "index": 140,
+        "word": "quiere"
+    },
+    {
+        "index": 141,
+        "word": "parece"
+    },
+    {
+        "index": 142,
+        "word": "nosotros"
+    },
+    {
+        "index": 143,
+        "word": "poco"
+    },
+    {
+        "index": 144,
+        "word": "padre"
+    },
+    {
+        "index": 145,
+        "word": "trabajo"
+    },
+    {
+        "index": 146,
+        "word": "gente"
+    },
+    {
+        "index": 147,
+        "word": "mira"
+    },
+    {
+        "index": 148,
+        "word": "vas"
+    },
+    {
+        "index": 149,
+        "word": "sea"
+    },
+    {
+        "index": 150,
+        "word": "les"
+    },
+    {
+        "index": 151,
+        "word": "donde"
+    },
+    {
+        "index": 152,
+        "word": "mismo"
+    },
+    {
+        "index": 153,
+        "word": "hecho"
+    },
+    {
+        "index": 154,
+        "word": "ellos"
+    },
+    {
+        "index": 155,
+        "word": "dijo"
+    },
+    {
+        "index": 156,
+        "word": "pasa"
+    },
+    {
+        "index": 157,
+        "word": "dinero"
+    },
+    {
+        "index": 158,
+        "word": "hijo"
+    },
+    {
+        "index": 159,
+        "word": "tal"
+    },
+    {
+        "index": 160,
+        "word": "otro"
+    },
+    {
+        "index": 161,
+        "word": "hablar"
+    },
+    {
+        "index": 162,
+        "word": "seguro"
+    },
+    {
+        "index": 163,
+        "word": "claro"
+    },
+    {
+        "index": 164,
+        "word": "estas"
+    },
+    {
+        "index": 165,
+        "word": "lugar"
+    },
+    {
+        "index": 166,
+        "word": "mundo"
+    },
+    {
+        "index": 167,
+        "word": "amigo"
+    },
+    {
+        "index": 168,
+        "word": "espera"
+    },
+    {
+        "index": 169,
+        "word": "mierda"
+    },
+    {
+        "index": 170,
+        "word": "han"
+    },
+    {
+        "index": 171,
+        "word": "tus"
+    },
+    {
+        "index": 172,
+        "word": "sabe"
+    },
+    {
+        "index": 173,
+        "word": "después"
+    },
+    {
+        "index": 174,
+        "word": "momento"
+    },
+    {
+        "index": 175,
+        "word": "desde"
+    },
+    {
+        "index": 176,
+        "word": "fuera"
+    },
+    {
+        "index": 177,
+        "word": "cosa"
+    },
+    {
+        "index": 178,
+        "word": "tipo"
+    },
+    {
+        "index": 179,
+        "word": "mañana"
+    },
+    {
+        "index": 180,
+        "word": "podemos"
+    },
+    {
+        "index": 181,
+        "word": "dije"
+    },
+    {
+        "index": 182,
+        "word": "gran"
+    },
+    {
+        "index": 183,
+        "word": "necesito"
+    },
+    {
+        "index": 184,
+        "word": "estado"
+    },
+    {
+        "index": 185,
+        "word": "podría"
+    },
+    {
+        "index": 186,
+        "word": "acuerdo"
+    },
+    {
+        "index": 187,
+        "word": "papá"
+    },
+    {
+        "index": 188,
+        "word": "tener"
+    },
+    {
+        "index": 189,
+        "word": "dice"
+    },
+    {
+        "index": 190,
+        "word": "mío"
+    },
+    {
+        "index": 191,
+        "word": "crees"
+    },
+    {
+        "index": 192,
+        "word": "buena"
+    },
+    {
+        "index": 193,
+        "word": "gusta"
+    },
+    {
+        "index": 194,
+        "word": "nuestro"
+    },
+    {
+        "index": 195,
+        "word": "nuevo"
+    },
+    {
+        "index": 196,
+        "word": "será"
+    },
+    {
+        "index": 197,
+        "word": "haciendo"
+    },
+    {
+        "index": 198,
+        "word": "días"
+    },
+    {
+        "index": 199,
+        "word": "nombre"
+    }
+]
