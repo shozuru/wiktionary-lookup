@@ -1,0 +1,802 @@
+[
+    {
+        "index": 0,
+        "word": "de"
+    },
+    {
+        "index": 1,
+        "word": "nu"
+    },
+    {
+        "index": 2,
+        "word": "să"
+    },
+    {
+        "index": 3,
+        "word": "și"
+    },
+    {
+        "index": 4,
+        "word": "în"
+    },
+    {
+        "index": 5,
+        "word": "o"
+    },
+    {
+        "index": 6,
+        "word": "că"
+    },
+    {
+        "index": 7,
+        "word": "ce"
+    },
+    {
+        "index": 8,
+        "word": "e"
+    },
+    {
+        "index": 9,
+        "word": "la"
+    },
+    {
+        "index": 10,
+        "word": "a"
+    },
+    {
+        "index": 11,
+        "word": "cu"
+    },
+    {
+        "index": 12,
+        "word": "pe"
+    },
+    {
+        "index": 13,
+        "word": "am"
+    },
+    {
+        "index": 14,
+        "word": "un"
+    },
+    {
+        "index": 15,
+        "word": "mai"
+    },
+    {
+        "index": 16,
+        "word": "asta"
+    },
+    {
+        "index": 17,
+        "word": "pentru"
+    },
+    {
+        "index": 18,
+        "word": "este"
+    },
+    {
+        "index": 19,
+        "word": "sunt"
+    },
+    {
+        "index": 20,
+        "word": "ai"
+    },
+    {
+        "index": 21,
+        "word": "te"
+    },
+    {
+        "index": 22,
+        "word": "bine"
+    },
+    {
+        "index": 23,
+        "word": "da"
+    },
+    {
+        "index": 24,
+        "word": "dar"
+    },
+    {
+        "index": 25,
+        "word": "mă"
+    },
+    {
+        "index": 26,
+        "word": "se"
+    },
+    {
+        "index": 27,
+        "word": "ca"
+    },
+    {
+        "index": 28,
+        "word": "din"
+    },
+    {
+        "index": 29,
+        "word": "fost"
+    },
+    {
+        "index": 30,
+        "word": "care"
+    },
+    {
+        "index": 31,
+        "word": "fi"
+    },
+    {
+        "index": 32,
+        "word": "eu"
+    },
+    {
+        "index": 33,
+        "word": "dacă"
+    },
+    {
+        "index": 34,
+        "word": "aici"
+    },
+    {
+        "index": 35,
+        "word": "așa"
+    },
+    {
+        "index": 36,
+        "word": "ești"
+    },
+    {
+        "index": 37,
+        "word": "trebuie"
+    },
+    {
+        "index": 38,
+        "word": "sa"
+    },
+    {
+        "index": 39,
+        "word": "cum"
+    },
+    {
+        "index": 40,
+        "word": "tu"
+    },
+    {
+        "index": 41,
+        "word": "acum"
+    },
+    {
+        "index": 42,
+        "word": "când"
+    },
+    {
+        "index": 43,
+        "word": "va"
+    },
+    {
+        "index": 44,
+        "word": "el"
+    },
+    {
+        "index": 45,
+        "word": "ar"
+    },
+    {
+        "index": 46,
+        "word": "lui"
+    },
+    {
+        "index": 47,
+        "word": "ceva"
+    },
+    {
+        "index": 48,
+        "word": "știu"
+    },
+    {
+        "index": 49,
+        "word": "doar"
+    },
+    {
+        "index": 50,
+        "word": "ei"
+    },
+    {
+        "index": 51,
+        "word": "ne"
+    },
+    {
+        "index": 52,
+        "word": "îmi"
+    },
+    {
+        "index": 53,
+        "word": "mine"
+    },
+    {
+        "index": 54,
+        "word": "tine"
+    },
+    {
+        "index": 55,
+        "word": "vă"
+    },
+    {
+        "index": 56,
+        "word": "poate"
+    },
+    {
+        "index": 57,
+        "word": "pot"
+    },
+    {
+        "index": 58,
+        "word": "voi"
+    },
+    {
+        "index": 59,
+        "word": "face"
+    },
+    {
+        "index": 60,
+        "word": "cred"
+    },
+    {
+        "index": 61,
+        "word": "au"
+    },
+    {
+        "index": 62,
+        "word": "mea"
+    },
+    {
+        "index": 63,
+        "word": "spus"
+    },
+    {
+        "index": 64,
+        "word": "unde"
+    },
+    {
+        "index": 65,
+        "word": "meu"
+    },
+    {
+        "index": 66,
+        "word": "ea"
+    },
+    {
+        "index": 67,
+        "word": "știi"
+    },
+    {
+        "index": 68,
+        "word": "bună"
+    },
+    {
+        "index": 69,
+        "word": "mult"
+    },
+    {
+        "index": 70,
+        "word": "vreau"
+    },
+    {
+        "index": 71,
+        "word": "s-a"
+    },
+    {
+        "index": 72,
+        "word": "despre"
+    },
+    {
+        "index": 73,
+        "word": "vrei"
+    },
+    {
+        "index": 74,
+        "word": "făcut"
+    },
+    {
+        "index": 75,
+        "word": "sau"
+    },
+    {
+        "index": 76,
+        "word": "tot"
+    },
+    {
+        "index": 77,
+        "word": "foarte"
+    },
+    {
+        "index": 78,
+        "word": "pare"
+    },
+    {
+        "index": 79,
+        "word": "acolo"
+    },
+    {
+        "index": 80,
+        "word": "chiar"
+    },
+    {
+        "index": 81,
+        "word": "noi"
+    },
+    {
+        "index": 82,
+        "word": "ta"
+    },
+    {
+        "index": 83,
+        "word": "era"
+    },
+    {
+        "index": 84,
+        "word": "nimic"
+    },
+    {
+        "index": 85,
+        "word": "faci"
+    },
+    {
+        "index": 86,
+        "word": "rău"
+    },
+    {
+        "index": 87,
+        "word": "are"
+    },
+    {
+        "index": 88,
+        "word": "cine"
+    },
+    {
+        "index": 89,
+        "word": "poți"
+    },
+    {
+        "index": 90,
+        "word": "nici"
+    },
+    {
+        "index": 91,
+        "word": "mulțumesc"
+    },
+    {
+        "index": 92,
+        "word": "putea"
+    },
+    {
+        "index": 93,
+        "word": "tău"
+    },
+    {
+        "index": 94,
+        "word": "îți"
+    },
+    {
+        "index": 95,
+        "word": "fac"
+    },
+    {
+        "index": 96,
+        "word": "fie"
+    },
+    {
+        "index": 97,
+        "word": "nevoie"
+    },
+    {
+        "index": 98,
+        "word": "trebui"
+    },
+    {
+        "index": 99,
+        "word": "după"
+    },
+    {
+        "index": 100,
+        "word": "atunci"
+    },
+    {
+        "index": 101,
+        "word": "îl"
+    },
+    {
+        "index": 102,
+        "word": "timp"
+    },
+    {
+        "index": 103,
+        "word": "să-l"
+    },
+    {
+        "index": 104,
+        "word": "spun"
+    },
+    {
+        "index": 105,
+        "word": "rog"
+    },
+    {
+        "index": 106,
+        "word": "acest"
+    },
+    {
+        "index": 107,
+        "word": "nu-i"
+    },
+    {
+        "index": 108,
+        "word": "spune"
+    },
+    {
+        "index": 109,
+        "word": "avem"
+    },
+    {
+        "index": 110,
+        "word": "al"
+    },
+    {
+        "index": 111,
+        "word": "le"
+    },
+    {
+        "index": 112,
+        "word": "vom"
+    },
+    {
+        "index": 113,
+        "word": "deci"
+    },
+    {
+        "index": 114,
+        "word": "prea"
+    },
+    {
+        "index": 115,
+        "word": "cineva"
+    },
+    {
+        "index": 116,
+        "word": "oh"
+    },
+    {
+        "index": 117,
+        "word": "cât"
+    },
+    {
+        "index": 118,
+        "word": "toate"
+    },
+    {
+        "index": 119,
+        "word": "până"
+    },
+    {
+        "index": 120,
+        "word": "aș"
+    },
+    {
+        "index": 121,
+        "word": "să-ți"
+    },
+    {
+        "index": 122,
+        "word": "încă"
+    },
+    {
+        "index": 123,
+        "word": "ani"
+    },
+    {
+        "index": 124,
+        "word": "cel"
+    },
+    {
+        "index": 125,
+        "word": "suntem"
+    },
+    {
+        "index": 126,
+        "word": "vei"
+    },
+    {
+        "index": 127,
+        "word": "atât"
+    },
+    {
+        "index": 128,
+        "word": "bun"
+    },
+    {
+        "index": 129,
+        "word": "sigur"
+    },
+    {
+        "index": 130,
+        "word": "văzut"
+    },
+    {
+        "index": 131,
+        "word": "îi"
+    },
+    {
+        "index": 132,
+        "word": "vor"
+    },
+    {
+        "index": 133,
+        "word": "vrea"
+    },
+    {
+        "index": 134,
+        "word": "mare"
+    },
+    {
+        "index": 135,
+        "word": "iar"
+    },
+    {
+        "index": 136,
+        "word": "haide"
+    },
+    {
+        "index": 137,
+        "word": "să-i"
+    },
+    {
+        "index": 138,
+        "word": "crezi"
+    },
+    {
+        "index": 139,
+        "word": "fără"
+    },
+    {
+        "index": 140,
+        "word": "hei"
+    },
+    {
+        "index": 141,
+        "word": "stai"
+    },
+    {
+        "index": 142,
+        "word": "să-mi"
+    },
+    {
+        "index": 143,
+        "word": "totul"
+    },
+    {
+        "index": 144,
+        "word": "avea"
+    },
+    {
+        "index": 145,
+        "word": "venit"
+    },
+    {
+        "index": 146,
+        "word": "puțin"
+    },
+    {
+        "index": 147,
+        "word": "ăsta"
+    },
+    {
+        "index": 148,
+        "word": "spui"
+    },
+    {
+        "index": 149,
+        "word": "avut"
+    },
+    {
+        "index": 150,
+        "word": "m-am"
+    },
+    {
+        "index": 151,
+        "word": "lucru"
+    },
+    {
+        "index": 152,
+        "word": "regulă"
+    },
+    {
+        "index": 153,
+        "word": "niciodată"
+    },
+    {
+        "index": 154,
+        "word": "fel"
+    },
+    {
+        "index": 155,
+        "word": "decât"
+    },
+    {
+        "index": 156,
+        "word": "văd"
+    },
+    {
+        "index": 157,
+        "word": "putem"
+    },
+    {
+        "index": 158,
+        "word": "ceea"
+    },
+    {
+        "index": 159,
+        "word": "n-am"
+    },
+    {
+        "index": 160,
+        "word": "toți"
+    },
+    {
+        "index": 161,
+        "word": "înainte"
+    },
+    {
+        "index": 162,
+        "word": "toată"
+    },
+    {
+        "index": 163,
+        "word": "place"
+    },
+    {
+        "index": 164,
+        "word": "domnule"
+    },
+    {
+        "index": 165,
+        "word": "ați"
+    },
+    {
+        "index": 166,
+        "word": "mi-a"
+    },
+    {
+        "index": 167,
+        "word": "întâmplat"
+    },
+    {
+        "index": 168,
+        "word": "prin"
+    },
+    {
+        "index": 169,
+        "word": "s-o"
+    },
+    {
+        "index": 170,
+        "word": "acasă"
+    },
+    {
+        "index": 171,
+        "word": "mergem"
+    },
+    {
+        "index": 172,
+        "word": "unul"
+    },
+    {
+        "index": 173,
+        "word": "uite"
+    },
+    {
+        "index": 174,
+        "word": "niște"
+    },
+    {
+        "index": 175,
+        "word": "hai"
+    },
+    {
+        "index": 176,
+        "word": "loc"
+    },
+    {
+        "index": 177,
+        "word": "nimeni"
+    },
+    {
+        "index": 178,
+        "word": "mama"
+    },
+    {
+        "index": 179,
+        "word": "apoi"
+    },
+    {
+        "index": 180,
+        "word": "vezi"
+    },
+    {
+        "index": 181,
+        "word": "dat"
+    },
+    {
+        "index": 182,
+        "word": "fii"
+    },
+    {
+        "index": 183,
+        "word": "l-am"
+    },
+    {
+        "index": 184,
+        "word": "naiba"
+    },
+    {
+        "index": 185,
+        "word": "nou"
+    },
+    {
+        "index": 186,
+        "word": "oameni"
+    },
+    {
+        "index": 187,
+        "word": "această"
+    },
+    {
+        "index": 188,
+        "word": "două"
+    },
+    {
+        "index": 189,
+        "word": "ia"
+    },
+    {
+        "index": 190,
+        "word": "facem"
+    },
+    {
+        "index": 191,
+        "word": "zi"
+    },
+    {
+        "index": 192,
+        "word": "multe"
+    },
+    {
+        "index": 193,
+        "word": "înapoi"
+    },
+    {
+        "index": 194,
+        "word": "într-o"
+    },
+    {
+        "index": 195,
+        "word": "jos"
+    },
+    {
+        "index": 196,
+        "word": "lumea"
+    },
+    {
+        "index": 197,
+        "word": "nu-mi"
+    },
+    {
+        "index": 198,
+        "word": "timpul"
+    },
+    {
+        "index": 199,
+        "word": "găsit"
+    }
+]

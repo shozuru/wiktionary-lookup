@@ -1,0 +1,802 @@
+[
+    {
+        "index": 0,
+        "word": "jeg"
+    },
+    {
+        "index": 1,
+        "word": "det"
+    },
+    {
+        "index": 2,
+        "word": "er"
+    },
+    {
+        "index": 3,
+        "word": "du"
+    },
+    {
+        "index": 4,
+        "word": "ikke"
+    },
+    {
+        "index": 5,
+        "word": "en"
+    },
+    {
+        "index": 6,
+        "word": "og"
+    },
+    {
+        "index": 7,
+        "word": "har"
+    },
+    {
+        "index": 8,
+        "word": "vi"
+    },
+    {
+        "index": 9,
+        "word": "på"
+    },
+    {
+        "index": 10,
+        "word": "til"
+    },
+    {
+        "index": 11,
+        "word": "med"
+    },
+    {
+        "index": 12,
+        "word": "han"
+    },
+    {
+        "index": 13,
+        "word": "deg"
+    },
+    {
+        "index": 14,
+        "word": "for"
+    },
+    {
+        "index": 15,
+        "word": "meg"
+    },
+    {
+        "index": 16,
+        "word": "at"
+    },
+    {
+        "index": 17,
+        "word": "hva"
+    },
+    {
+        "index": 18,
+        "word": "den"
+    },
+    {
+        "index": 19,
+        "word": "så"
+    },
+    {
+        "index": 20,
+        "word": "som"
+    },
+    {
+        "index": 21,
+        "word": "kan"
+    },
+    {
+        "index": 22,
+        "word": "de"
+    },
+    {
+        "index": 23,
+        "word": "var"
+    },
+    {
+        "index": 24,
+        "word": "vil"
+    },
+    {
+        "index": 25,
+        "word": "av"
+    },
+    {
+        "index": 26,
+        "word": "om"
+    },
+    {
+        "index": 27,
+        "word": "skal"
+    },
+    {
+        "index": 28,
+        "word": "men"
+    },
+    {
+        "index": 29,
+        "word": "et"
+    },
+    {
+        "index": 30,
+        "word": "her"
+    },
+    {
+        "index": 31,
+        "word": "ja"
+    },
+    {
+        "index": 32,
+        "word": "bare"
+    },
+    {
+        "index": 33,
+        "word": "må"
+    },
+    {
+        "index": 34,
+        "word": "hun"
+    },
+    {
+        "index": 35,
+        "word": "dere"
+    },
+    {
+        "index": 36,
+        "word": "noe"
+    },
+    {
+        "index": 37,
+        "word": "ham"
+    },
+    {
+        "index": 38,
+        "word": "dette"
+    },
+    {
+        "index": 39,
+        "word": "min"
+    },
+    {
+        "index": 40,
+        "word": "nei"
+    },
+    {
+        "index": 41,
+        "word": "nå"
+    },
+    {
+        "index": 42,
+        "word": "vet"
+    },
+    {
+        "index": 43,
+        "word": "kom"
+    },
+    {
+        "index": 44,
+        "word": "der"
+    },
+    {
+        "index": 45,
+        "word": "din"
+    },
+    {
+        "index": 46,
+        "word": "ut"
+    },
+    {
+        "index": 47,
+        "word": "hvor"
+    },
+    {
+        "index": 48,
+        "word": "da"
+    },
+    {
+        "index": 49,
+        "word": "fra"
+    },
+    {
+        "index": 50,
+        "word": "oss"
+    },
+    {
+        "index": 51,
+        "word": "være"
+    },
+    {
+        "index": 52,
+        "word": "dem"
+    },
+    {
+        "index": 53,
+        "word": "se"
+    },
+    {
+        "index": 54,
+        "word": "ha"
+    },
+    {
+        "index": 55,
+        "word": "gjør"
+    },
+    {
+        "index": 56,
+        "word": "noen"
+    },
+    {
+        "index": 57,
+        "word": "hvis"
+    },
+    {
+        "index": 58,
+        "word": "ville"
+    },
+    {
+        "index": 59,
+        "word": "kommer"
+    },
+    {
+        "index": 60,
+        "word": "igjen"
+    },
+    {
+        "index": 61,
+        "word": "ta"
+    },
+    {
+        "index": 62,
+        "word": "alle"
+    },
+    {
+        "index": 63,
+        "word": "hvorfor"
+    },
+    {
+        "index": 64,
+        "word": "få"
+    },
+    {
+        "index": 65,
+        "word": "tror"
+    },
+    {
+        "index": 66,
+        "word": "hvordan"
+    },
+    {
+        "index": 67,
+        "word": "går"
+    },
+    {
+        "index": 68,
+        "word": "alt"
+    },
+    {
+        "index": 69,
+        "word": "opp"
+    },
+    {
+        "index": 70,
+        "word": "sa"
+    },
+    {
+        "index": 71,
+        "word": "ingen"
+    },
+    {
+        "index": 72,
+        "word": "gå"
+    },
+    {
+        "index": 73,
+        "word": "når"
+    },
+    {
+        "index": 74,
+        "word": "får"
+    },
+    {
+        "index": 75,
+        "word": "hvem"
+    },
+    {
+        "index": 76,
+        "word": "seg"
+    },
+    {
+        "index": 77,
+        "word": "gjøre"
+    },
+    {
+        "index": 78,
+        "word": "eller"
+    },
+    {
+        "index": 79,
+        "word": "la"
+    },
+    {
+        "index": 80,
+        "word": "ser"
+    },
+    {
+        "index": 81,
+        "word": "blir"
+    },
+    {
+        "index": 82,
+        "word": "takk"
+    },
+    {
+        "index": 83,
+        "word": "bli"
+    },
+    {
+        "index": 84,
+        "word": "hadde"
+    },
+    {
+        "index": 85,
+        "word": "bra"
+    },
+    {
+        "index": 86,
+        "word": "si"
+    },
+    {
+        "index": 87,
+        "word": "denne"
+    },
+    {
+        "index": 88,
+        "word": "henne"
+    },
+    {
+        "index": 89,
+        "word": "inn"
+    },
+    {
+        "index": 90,
+        "word": "litt"
+    },
+    {
+        "index": 91,
+        "word": "etter"
+    },
+    {
+        "index": 92,
+        "word": "kunne"
+    },
+    {
+        "index": 93,
+        "word": "vel"
+    },
+    {
+        "index": 94,
+        "word": "jo"
+    },
+    {
+        "index": 95,
+        "word": "to"
+    },
+    {
+        "index": 96,
+        "word": "skulle"
+    },
+    {
+        "index": 97,
+        "word": "ved"
+    },
+    {
+        "index": 98,
+        "word": "aldri"
+    },
+    {
+        "index": 99,
+        "word": "hei"
+    },
+    {
+        "index": 100,
+        "word": "tilbake"
+    },
+    {
+        "index": 101,
+        "word": "over"
+    },
+    {
+        "index": 102,
+        "word": "kanskje"
+    },
+    {
+        "index": 103,
+        "word": "ble"
+    },
+    {
+        "index": 104,
+        "word": "hvad"
+    },
+    {
+        "index": 105,
+        "word": "god"
+    },
+    {
+        "index": 106,
+        "word": "man"
+    },
+    {
+        "index": 107,
+        "word": "også"
+    },
+    {
+        "index": 108,
+        "word": "selv"
+    },
+    {
+        "index": 109,
+        "word": "nok"
+    },
+    {
+        "index": 110,
+        "word": "sier"
+    },
+    {
+        "index": 111,
+        "word": "mig"
+    },
+    {
+        "index": 112,
+        "word": "før"
+    },
+    {
+        "index": 113,
+        "word": "ok"
+    },
+    {
+        "index": 114,
+        "word": "dig"
+    },
+    {
+        "index": 115,
+        "word": "hans"
+    },
+    {
+        "index": 116,
+        "word": "gi"
+    },
+    {
+        "index": 117,
+        "word": "sammen"
+    },
+    {
+        "index": 118,
+        "word": "godt"
+    },
+    {
+        "index": 119,
+        "word": "gang"
+    },
+    {
+        "index": 120,
+        "word": "ned"
+    },
+    {
+        "index": 121,
+        "word": "trenger"
+    },
+    {
+        "index": 122,
+        "word": "tar"
+    },
+    {
+        "index": 123,
+        "word": "mer"
+    },
+    {
+        "index": 124,
+        "word": "dag"
+    },
+    {
+        "index": 125,
+        "word": "vært"
+    },
+    {
+        "index": 126,
+        "word": "mitt"
+    },
+    {
+        "index": 127,
+        "word": "mine"
+    },
+    {
+        "index": 128,
+        "word": "gjorde"
+    },
+    {
+        "index": 129,
+        "word": "mye"
+    },
+    {
+        "index": 130,
+        "word": "andre"
+    },
+    {
+        "index": 131,
+        "word": "sett"
+    },
+    {
+        "index": 132,
+        "word": "helt"
+    },
+    {
+        "index": 133,
+        "word": "vær"
+    },
+    {
+        "index": 134,
+        "word": "siden"
+    },
+    {
+        "index": 135,
+        "word": "hele"
+    },
+    {
+        "index": 136,
+        "word": "enn"
+    },
+    {
+        "index": 137,
+        "word": "år"
+    },
+    {
+        "index": 138,
+        "word": "ditt"
+    },
+    {
+        "index": 139,
+        "word": "komme"
+    },
+    {
+        "index": 140,
+        "word": "deres"
+    },
+    {
+        "index": 141,
+        "word": "mr"
+    },
+    {
+        "index": 142,
+        "word": "hold"
+    },
+    {
+        "index": 143,
+        "word": "af"
+    },
+    {
+        "index": 144,
+        "word": "mann"
+    },
+    {
+        "index": 145,
+        "word": "fordi"
+    },
+    {
+        "index": 146,
+        "word": "fikk"
+    },
+    {
+        "index": 147,
+        "word": "mot"
+    },
+    {
+        "index": 148,
+        "word": "dine"
+    },
+    {
+        "index": 149,
+        "word": "far"
+    },
+    {
+        "index": 150,
+        "word": "mener"
+    },
+    {
+        "index": 151,
+        "word": "vent"
+    },
+    {
+        "index": 152,
+        "word": "faen"
+    },
+    {
+        "index": 153,
+        "word": "ting"
+    },
+    {
+        "index": 154,
+        "word": "tre"
+    },
+    {
+        "index": 155,
+        "word": "gjort"
+    },
+    {
+        "index": 156,
+        "word": "snakke"
+    },
+    {
+        "index": 157,
+        "word": "mange"
+    },
+    {
+        "index": 158,
+        "word": "greit"
+    },
+    {
+        "index": 159,
+        "word": "folk"
+    },
+    {
+        "index": 160,
+        "word": "hjem"
+    },
+    {
+        "index": 161,
+        "word": "liker"
+    },
+    {
+        "index": 162,
+        "word": "sant"
+    },
+    {
+        "index": 163,
+        "word": "tid"
+    },
+    {
+        "index": 164,
+        "word": "rett"
+    },
+    {
+        "index": 165,
+        "word": "dra"
+    },
+    {
+        "index": 166,
+        "word": "alltid"
+    },
+    {
+        "index": 167,
+        "word": "sir"
+    },
+    {
+        "index": 168,
+        "word": "sånn"
+    },
+    {
+        "index": 169,
+        "word": "unnskyld"
+    },
+    {
+        "index": 170,
+        "word": "morgen"
+    },
+    {
+        "index": 171,
+        "word": "bedre"
+    },
+    {
+        "index": 172,
+        "word": "virkelig"
+    },
+    {
+        "index": 173,
+        "word": "elsker"
+    },
+    {
+        "index": 174,
+        "word": "tok"
+    },
+    {
+        "index": 175,
+        "word": "burde"
+    },
+    {
+        "index": 176,
+        "word": "vår"
+    },
+    {
+        "index": 177,
+        "word": "nu"
+    },
+    {
+        "index": 178,
+        "word": "hit"
+    },
+    {
+        "index": 179,
+        "word": "uten"
+    },
+    {
+        "index": 180,
+        "word": "veldig"
+    },
+    {
+        "index": 181,
+        "word": "død"
+    },
+    {
+        "index": 182,
+        "word": "finne"
+    },
+    {
+        "index": 183,
+        "word": "beklager"
+    },
+    {
+        "index": 184,
+        "word": "mor"
+    },
+    {
+        "index": 185,
+        "word": "står"
+    },
+    {
+        "index": 186,
+        "word": "livet"
+    },
+    {
+        "index": 187,
+        "word": "trodde"
+    },
+    {
+        "index": 188,
+        "word": "ingenting"
+    },
+    {
+        "index": 189,
+        "word": "snakker"
+    },
+    {
+        "index": 190,
+        "word": "sin"
+    },
+    {
+        "index": 191,
+        "word": "akkurat"
+    },
+    {
+        "index": 192,
+        "word": "gikk"
+    },
+    {
+        "index": 193,
+        "word": "kveld"
+    },
+    {
+        "index": 194,
+        "word": "nej"
+    },
+    {
+        "index": 195,
+        "word": "samme"
+    },
+    {
+        "index": 196,
+        "word": "første"
+    },
+    {
+        "index": 197,
+        "word": "hør"
+    },
+    {
+        "index": 198,
+        "word": "kjenner"
+    },
+    {
+        "index": 199,
+        "word": "ute"
+    }
+]
