@@ -44,7 +44,7 @@ const WordInfoModal: React.FC<WordInfoModalProps> =
                 const res =
                     await fetch(
 
-                        'http://159.203.132.194:3010/lookup/word?' +
+                        'https://wiktionary-lookup.duckdns.org/lookup/word?' +
                         `${params.toString()}`
                     )
 
