@@ -44,7 +44,7 @@ const WordInfoModal: React.FC<WordInfoModalProps> =
                 const res =
                     await fetch(
 
-                        'http://localhost:3010/lookup/word?' +
+                        'http://159.203.132.194:3010/lookup/word?' +
                         `${params.toString()}`
                     )
 
