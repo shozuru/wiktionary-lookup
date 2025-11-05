@@ -1,6 +1,6 @@
 import * as Dialog from "@radix-ui/react-dialog"
 import React, { useEffect, useState } from 'react'
-import './WordInfoModal.css'
+import './WordInfoModel.css'
 import type { WordInfo } from "../../types/wordInfo"
 import PartOfSpeechMeaningTable
     from "../PartOfSpeechMeaningTable/PartOfSpeechMeaningTable"

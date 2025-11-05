@@ -68,7 +68,12 @@ router.get('/lookup/word', async (req, res) => {
 
     try {
 
-        const response = await axios.get(url)
+        const response = await axios.get(url, {
+            headers: {
+                'User-Agent': 'wiktionary-lookup/1.0 (https://shozuru.github.io/wiktionary-lookup/)',
+                'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+            }
+        })
 
         if (response.status == 200) {
 

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import WordInfoModal from "./WordInfoModal/WordInfoModal.tsx"
+import WordInfoModal from "./WordInfoModel/WordInfoModel.tsx"
 import PageControls from "./PageControls.tsx"
 import type { WordInfo } from "../types/wordInfo.ts"
 import frequencyFr from '../data/frequency-fr.json'
